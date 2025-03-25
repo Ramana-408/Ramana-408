@@ -1,4 +1,3 @@
-[![MasterHead](https://www.freepik.com/free-photo/digital-world-banner-background-remixed-from-public-domain-by-nasa_16016436.htm#fromView=keyword&page=1&position=26&uuid=4f109a81-15ee-468c-9a1a-d683e9d32b76&query=Cloud+Computing)]
 <h1 align="center">Hi 👋, I'm Ramana Reddy</h1>
 <h3 align="center">🚀 Cloud DevOps Engineer | Automating AWS Infrastructure with Terraform, Jenkins, and CI/CD | Passionate about Scalable, Secure, and Efficient Cloud Solutions 🌍✨</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
